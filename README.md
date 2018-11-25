@@ -1,2 +1,3 @@
-# loopback4_openapi_todolist_demo
-Simple todo list app using loopback4 
+# todolist
+
+[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
